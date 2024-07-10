@@ -19,56 +19,57 @@ During this project, I developed and demonstrated the following skills:
 
 ## Image Gallery
 
-Here are some of the maps and visualizations created during the project:
-
 ### Drainage
-![Drainage](Drainage.png)
+<img src="Drainage.png" alt="Drainage Map" style="width: 400px;"/>
+
 *Drainage Map showing water flow and drainage patterns.*
 
 ### Elevation
-![Elevation](ELEVATION.png)
+<img src="ELEVATION.png" alt="Elevation Map" style="width: 400px;"/>
+
 *Elevation Map depicting the topography of the region.*
 
-### New Elevation
-![New Elevation](Elevation_new.png)
-*Updated Elevation Map with refined topographical details.*
-
 ### Land Use Land Cover (LULC)
-![LULC](LULC.png)
+<img src="LULC.png" alt="LULC Map" style="width: 400px;"/>
+
 *Land Use Land Cover Map categorizing different land types.*
 
 ### Classification
-![Classification](classification.png)
+<img src="classification.png" alt="Classification Map" style="width: 400px;"/>
+
 *Classification Map showing various land cover types.*
 
 ### pH Levels
-![pH Levels](ph.png)
+<img src="ph.png" alt="pH Levels Map" style="width: 400px;"/>
+
 *pH Levels Map displaying soil pH variations.*
 
 ### Precipitation
-![Precipitation](precipitation.png)
+<img src="precipitation.png" alt="Precipitation Map" style="width: 400px;"/>
+
 *Precipitation Map indicating rainfall distribution.*
 
 ### Rainfall
-![Rainfall](rain.png)
+<img src="rain.png" alt="Rainfall Map" style="width: 400px;"/>
+
 *Rainfall Map illustrating average rainfall across the area.*
 
 ### Reclassification
-![Reclassification](reclass.png)
+<img src="reclass.png" alt="Reclassification Map" style="width: 400px;"/>
+
 *Reclassification Map showing adjusted land cover classes.*
 
-### Slope
-![Slope](slope.png)
-*Slope Map demonstrating terrain steepness.*
-
 ### New Slope
-![New Slope](slope_new.png)
+<img src="slope_new.png" alt="New Slope Map" style="width: 400px;"/>
+
 *Updated Slope Map with improved gradient details.*
 
 ### Temperature
-![Temperature](temp.png)
+<img src="temp.png" alt="Temperature Map" style="width: 400px;"/>
+
 *Temperature Map representing temperature variations.*
 
 ### Soil Texture
-![Soil Texture](texture.png)
+<img src="texture.png" alt="Soil Texture Map" style="width: 400px;"/>
+
 *Soil Texture Map depicting different soil textures.*
